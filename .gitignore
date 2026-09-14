@@ -1,0 +1,8 @@
+# Local credentials and deployment configuration
+db.php
+config_gdrive.php
+
+# Runtime and generated files
+/files/*
+!/files/.gitkeep
+*.log
