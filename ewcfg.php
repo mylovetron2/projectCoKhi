@@ -218,12 +218,12 @@ $CONFIG = [
 
 	// Database connection info
 	"CONNECTION_INFO" => [
-		"DB" => ["id" => "DB", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "diavatly", "pass" => "cntt2019", "db" => "diavatly_quanly"],
-		"diavatly" => ["id" => "diavatly", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "diavatly", "pass" => "cntt2019", "db" => "diavatly_ltd", "new" => "true"]
+		"DB" => ["id" => "DB", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "mapselli676e_quanly", "pass" => "cntt2019@cntt2025", "db" => "mapselli676e_quanly"],
+		"diavatly" => ["id" => "diavatly", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "mapselli676e_quanly", "pass" => "cntt2019@cntt2025", "db" => "mapselli676e_quanly", "new" => "true"]
 	],
 	"PRODUCTION_CONNECTION_INFO" => [
-		"DB" => ["id" => "DB", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "diavatly", "pass" => "cntt2019", "db" => "diavatly_quanly"],
-		"diavatly" => ["id" => "diavatly", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "diavatly", "pass" => "cntt2019", "db" => "diavatly_ltd", "new" => "true"]
+		"DB" => ["id" => "DB", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "mapselli676e_ltd", "pass" => "12345678", "db" => "mapselli676e_ltd"],
+		"diavatly" => ["id" => "diavatly", "type" => "MYSQL", "qs" => "`", "qe" => "`", "host" => "localhost", "port" => "3306", "user" => "mapselli676e_ltd", "pass" => "12345678", "db" => "mapselli676e_ltd", "new" => "true"]
 	],
 
 	// Database error function
